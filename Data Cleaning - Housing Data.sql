@@ -197,8 +197,7 @@ Order by PropertyAddress
 
 
 
-Select *
-From PortfolioProject.dbo.NashvilleHousing
+
 
 
 
